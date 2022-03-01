@@ -8,7 +8,7 @@ import React,{Component} from 'react';
      <Great name ='Aly' hero='superman'/>
      <Great name='Ramy' hero='batman'/>
      from function component props.
-     <br/><br/><br/>
+     <br/><p>--------------------------</p>
      <Welcome name='Ahmed' hero='myself'/>
      <Welcome name ='Aly' hero='superman'/>
      <Welcome name='Ramy' hero='batman'/>
